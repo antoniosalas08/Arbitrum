@@ -2,7 +2,7 @@
 
 ## Que es Arbitrum?
 1. [proyecto](#proyecto)
-2. [Technologia](#Technologia)
+2. [equipo](#equipo)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
