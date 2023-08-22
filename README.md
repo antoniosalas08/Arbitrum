@@ -1,7 +1,7 @@
 # Arbitrum
 
 ## Que es Arbitrum?
-1. [Caracteristicas](#Caracteristicas)
+1. [proyecto](#proyecto)
 2. [Technologia](#Technologia)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
