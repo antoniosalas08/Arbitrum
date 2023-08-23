@@ -3,7 +3,7 @@
 ## Que es Arbitrum?
 1. [proyecto](#proyecto)
 2. [equipo](#equipo)
-3. [Installation](#installation)
+3. [Token](#Token)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 ### General Info
