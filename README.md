@@ -4,7 +4,7 @@
 1. [proyecto](#proyecto)
 2. [equipo](#equipo)
 3. [Token](#Token)
-4. [Collaboration](#collaboration)
+4. [Crecimiento](#crecimiento)
 5. [FAQs](#faqs)
 ### General Info
 ***
