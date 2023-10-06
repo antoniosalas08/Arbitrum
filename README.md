@@ -1,6 +1,6 @@
 # Arbitrum.
 
-## Que es Arbitrum?...
+## Que es Arbitrum?.
 1. [proyecto](#proyecto)
 2. [equipo](#equipo)
 3. [Token](#Token)
